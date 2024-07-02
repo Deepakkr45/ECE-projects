@@ -1,6 +1,6 @@
 /*
  * File:   timers.c
- * Author: dhanu
+ * Author: Deepak Kumar
  *
  * Created on September 28, 2023, 6:53 PM
  */
