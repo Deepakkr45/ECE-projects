@@ -1,6 +1,6 @@
 /*
  * File:   newmain.c
- * Author: dhanu
+ * Author: Deepak Kumar
  *
  * Created on September 28, 2023, 5:49 PM
  */
